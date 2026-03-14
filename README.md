@@ -1,6 +1,6 @@
 # Password-Management-System
 🔐 Looking back at our Semester 1 triumph: Password Management System built in C++!
-Collaborating with my talented teammates Yousaf Iqbal and Hannan Khan, we crafted this secure console application from scratch using C++ with libraries <iostream>, <fstream>, <string>, <cmath>, <cstdlib>, and <ctime>.
+Collaborating with my talented teammates Yousaf Iqbal and Hannan Khan, we crafted this secure console application from scratch using C++ with libraries iostream, fstream, string, cmath, cstdlib, and ctime.
 
 𝐇𝐞𝐫𝐞’𝐬 𝐰𝐡𝐚𝐭 𝐢𝐭 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐬:
 
